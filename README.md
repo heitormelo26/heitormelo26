@@ -31,7 +31,10 @@
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
 
-
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=heitormelo26&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=heitormelo26&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heitormelo26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🤝🏻 Contato
 
 <p align="center">
