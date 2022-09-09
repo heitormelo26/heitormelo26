@@ -32,7 +32,7 @@
       alt="java"/> 
 
 
-## 🤝🏻 Entre em contato,comigo
+## 🤝🏻 Contato
 
 <p align="center">
 <br>
