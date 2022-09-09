@@ -6,17 +6,15 @@
 <h3 font-size="20" align="center">Sou um desenvolvedor goiano entusiasta.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 Tenho 22 anos, sou extrovertido e ambicioso.
 
 - 👯 Estou em busca de novas oportunidades de emprego
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🎓 Engenheiro da Computação e graduando de Engenharia de Software
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 Se aventure nos meus repositórios!
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
 
 
 ## ⚙️ Conhecimentos
