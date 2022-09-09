@@ -34,7 +34,7 @@
       alt="java"/> 
 
 
-<h3> ##🤝🏻 &nbsp;Entre em contato,comigo </h3> 
+## 🤝🏻 Entre em contato,comigo
 
 <p align="center">
 <br>
