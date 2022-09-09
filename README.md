@@ -12,4 +12,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
+<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
 
