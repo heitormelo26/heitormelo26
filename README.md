@@ -9,11 +9,11 @@
 <div align="left">
  <br/> 
   
-- 🌱 Tenho 22 anos, sou extrovertido e ambicioso.
+- 🌱 Tenho 24 anos, sou extrovertido e ambicioso.
 
 - 👯 Estou em busca de novas oportunidades de emprego
 
-- 🎓 Engenheiro da Computação e graduando de Engenharia de Software
+- 🎓 Engenheiro da Computação e de Engenharia de Software
 
 - 👨‍💻 Se aventure nos meus repositórios!
  </div>
